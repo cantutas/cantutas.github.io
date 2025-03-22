@@ -3,14 +3,14 @@
   <title>Welcome to cantutas&#39;s blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/cantutas/cantutas.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/cantutas/cantutas.github.io/"/>
   <updated>2025-02-12T14:46:48.975Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/cantutas/cantutas.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Cantutas</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/03/22/hello-world/"/>
-    <id>http://example.com/2025/03/22/hello-world/</id>
+    <link href="https://github.com/cantutas/cantutas.github.io/2025/03/22/hello-world/"/>
+    <id>https://github.com/cantutas/cantutas.github.io/2025/03/22/hello-world/</id>
     <published>2025-03-22T15:28:20.282Z</published>
     <updated>2025-02-12T14:46:48.975Z</updated>
     
